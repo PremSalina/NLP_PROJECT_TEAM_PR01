@@ -9,7 +9,7 @@ Navigate to `llmmodel.py` and update the file path as necessary.
 
 2. Load Vectorstore Files
 
-Download the vectorstore files movies_faiss_index and recipes_faiss_index from the provided drive link and Load the following vectorstore files:
+Download the vectorstore files movies_faiss_index and recipes_faiss_index from the provided drive link in milestone3 and Load the following vectorstore files:
 - `movies_faiss_index`
 - `recipes_faiss_index`
 
