@@ -1,1 +1,5 @@
+steps to run :
+
+this is written in colab, colab gpus are needed for faster running
+replace the hugging face token with your token and run
 
